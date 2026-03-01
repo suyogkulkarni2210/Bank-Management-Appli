@@ -185,12 +185,6 @@ mvn spring-boot:run
 http://localhost:8080
 ```
 
-### 6️⃣ Default Admin Access
-Visit `/setup` or `/force-create-admin` to create an admin user:
-- Username: `admin`
-- Password: `admin123`
-
----
 
 ## 🔄 Application Flow
 
